@@ -1,2 +1,2 @@
-# tutorial-react
-Starting with react
+# Tutorial react
+Starting with react, first time coding in react.
